@@ -1,0 +1,16 @@
+{
+  "name": "node_note_app",
+  "version": "1.0.0",
+  "description": "Note App",
+  "main": "app.js",
+  "scripts": {
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "core-util-is": "^1.0.2",
+    "validator": "^12.2.0",
+    "yargs": "^15.1.0"
+  }
+}
